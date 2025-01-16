@@ -1,0 +1,11 @@
+**/.DS_Store
+**/.idea/
+**/__pycache__/
+.residuals/
+
+*.spec
+bin/
+build/
+
+armor-bin
+morpheus-bin
